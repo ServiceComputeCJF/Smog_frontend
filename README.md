@@ -1,5 +1,5 @@
 
-# mypj
+# smog
 
 > A Vue.js project
 
